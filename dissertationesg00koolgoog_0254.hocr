@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dissertationesg00koolgoog/dissertationesg00koolgoog_0254.png"; bbox 0 0 2900 4829; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 950 258 2481 431">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 950 258 2481 431">
+     <span class='ocr_line' id='line_1_1' title="bbox 950 258 2481 431; baseline -0.015 -14"><span class='ocrx_word' id='word_1_1' title='bbox 950 336 1098 428; x_wconf 54' lang='grc' dir='ltr'>ξιξ</span> <span class='ocrx_word' id='word_1_2' title='bbox 1242 321 1567 431; x_wconf 61' lang='grc' dir='ltr'>-Μβῖα</span> <span class='ocrx_word' id='word_1_3' title='bbox 1590 258 1951 418; x_wconf 54' lang='grc' dir='ltr'>ΤηηΡονᾷω</span> <span class='ocrx_word' id='word_1_4' title='bbox 1987 316 2078 421; x_wconf 67' lang='lat'>&amp;³</span> <span class='ocrx_word' id='word_1_5' title='bbox 2114 317 2481 405; x_wconf 66' lang='lat' dir='ltr'>nodorum:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 944 3698 2697 3964">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 944 3698 2697 3964">
+     <span class='ocr_line' id='line_1_2' title="bbox 947 3698 2697 3781; baseline -0.001 -24"><span class='ocrx_word' id='word_1_6' title='bbox 947 3702 1362 3781; x_wconf 86' lang='lat' dir='ltr'>argumento</span> <span class='ocrx_word' id='word_1_7' title='bbox 1385 3736 1406 3772; x_wconf 88' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_8' title='bbox 1461 3706 1747 3780; x_wconf 76' lang='lat' dir='ltr'><strong>ejusque</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1781 3698 2314 3758; x_wconf 76' lang='lat' dir='ltr'>clrcumltantus</span> <span class='ocrx_word' id='word_1_10' title='bbox 2334 3698 2452 3756; x_wconf 87' lang='lat' dir='ltr'>aut</span> <span class='ocrx_word' id='word_1_11' title='bbox 2467 3698 2697 3778; x_wconf 77' lang='lat' dir='ltr'>ltopo</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 944 3777 2696 3964; baseline 0.001 -107"><span class='ocrx_word' id='word_1_12' title='bbox 944 3782 1151 3907; x_wconf 40' lang='lat' dir='ltr'>fagil?</span> <span class='ocrx_word' id='word_1_13' title='bbox 1184 3777 1592 3882; x_wconf 77' lang='lat' dir='ltr'><strong>dignoscere</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1628 3780 1880 3899; x_wconf 28' lang='lat' dir='ltr'>datur3·</span> <span class='ocrx_word' id='word_1_15' title='bbox 2490 3874 2696 3964; x_wconf 51' lang='lat' dir='ltr'>Idem</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

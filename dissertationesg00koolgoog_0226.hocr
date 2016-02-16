@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dissertationesg00koolgoog/dissertationesg00koolgoog_0226.png"; bbox 0 0 2900 4829; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 918 3858 2732 3943">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 918 3858 2732 3943">
+     <span class='ocr_line' id='line_1_1' title="bbox 918 3858 2732 3943; baseline -0.001 -28"><span class='ocrx_word' id='word_1_1' title='bbox 918 3862 1168 3936; x_wconf 31' lang='lat' dir='ltr'>lorum</span> <span class='ocrx_word' id='word_1_2' title='bbox 1214 3858 1488 3943; x_wconf 74' lang='lat' dir='ltr'><strong>tamnus</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1548 3858 2071 3936; x_wconf 73' lang='lat' dir='ltr'>quonammodo</span> <span class='ocrx_word' id='word_1_4' title='bbox 2130 3858 2459 3916; x_wconf 78' lang='lat' dir='ltr'><strong>exculare</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2496 3897 2521 3930; x_wconf 89' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_6' title='bbox 2602 3858 2732 3914; x_wconf 80' lang='lat' dir='ltr'><strong>aut</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2361 3943 2770 4038">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2361 3943 2770 4038">
+     <span class='ocr_line' id='line_1_2' title="bbox 2361 3943 2770 4038; baseline -0.007 -24"><span class='ocrx_word' id='word_1_7' title='bbox 2361 3969 2370 3973; x_wconf 93' lang='lat'>·</span> <span class='ocrx_word' id='word_1_8' title='bbox 2468 3943 2733 4038; x_wconf 57' lang='lat' dir='ltr'>appross</span> <span class='ocrx_word' id='word_1_9' title='bbox 2751 4019 2770 4023; x_wconf 53' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2877 4403 2897 4795">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2877 4403 2897 4795">
+     <span class='ocr_line' id='line_1_3' title="bbox 2877 4403 2897 4795; textangle 90"><span class='ocrx_word' id='word_1_10' title='bbox 2877 4438 2897 4795; x_wconf 39' lang='lat' dir='ltr'><strong>*pannas—n·-</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2893 4403 2897 4415; x_wconf 83' lang='grc'><em>,</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
